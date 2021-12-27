@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=CELL1 Pin=TP13-1
+Removed Pin From Net: NetName=CELL2 Pin=TP14-1
+Removed Pin From Net: NetName=CELL3 Pin=TP15-1
+Removed Pin From Net: NetName=CELL4 Pin=TP16-1
+Removed Pin From Net: NetName=BAT_GND Pin=TP17-1
+Removed Member From Class: ClassName=Connectors Member=TP13
+Removed Member From Class: ClassName=Connectors Member=TP14
+Removed Member From Class: ClassName=Connectors Member=TP15
+Removed Member From Class: ClassName=Connectors Member=TP16
+Removed Member From Class: ClassName=Connectors Member=TP17

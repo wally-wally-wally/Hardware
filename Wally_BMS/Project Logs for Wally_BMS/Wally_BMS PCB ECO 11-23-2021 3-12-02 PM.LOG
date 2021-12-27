@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CELL1_SDA Pin=D4-1
+Removed Pin From Net: NetName=CELL2_SDA Pin=D6-1
+Removed Pin From Net: NetName=CELL3_SDA Pin=D8-1
+Removed Pin From Net: NetName=CELL4_SDA Pin=D10-1
+Added Pin To Net: NetName=CELL1_SCL Pin=D4-1
+Added Pin To Net: NetName=CELL2_SCL Pin=D6-1
+Added Pin To Net: NetName=CELL3_SCL Pin=D8-1
+Added Pin To Net: NetName=CELL4_SCL Pin=D10-1

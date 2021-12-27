@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VSYS Pin=C11-2
+Removed Member From Class: ClassName=BMS Member=R4
+Added Pin To Net: NetName=Pre-VSYS Pin=C11-2
+Added Member To Class: ClassName=Connectors Member=Component R4 Resistor 0805

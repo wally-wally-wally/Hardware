@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=J0-4
+Removed Pin From Net: NetName=BAT_RAW Pin=J0-7
+Removed Pin From Net: NetName=BAT_RAW Pin=J0-8
+Change Component Footprint: Designator=J0 Old Footprint=CONN8_776280_TEC New Footprint=CON_39299063
+Change Component Comment : Designator=J0 Old Comment=1-776280-1 New Comment=39299063
+Change component parameters: Designator = "J0" ("J0"); Footprint = "CONN8_776280_TEC"; UniqueID = "\OOKHOAZH\WSZBBJGP" ("\OOKHOAZH\WSZBBJGP")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "39299063"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Molex Connector Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT_RAW Pin=J0-4
+Added Pin To Net: NetName=BAT_RAW Pin=J0-5

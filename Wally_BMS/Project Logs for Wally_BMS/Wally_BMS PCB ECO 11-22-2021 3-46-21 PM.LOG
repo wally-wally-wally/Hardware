@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=J* NewDesignator=J0
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Net Name : Old Net Name=NetJ?_18 New Net Name=NetJ1_18
+Change Net Name : Old Net Name=NetJ?_19 New Net Name=NetJ1_19
+Change Net Name : Old Net Name=NetJ?_20 New Net Name=NetJ1_20
+Change Net Name : Old Net Name=NetJ?_21 New Net Name=NetJ1_21
+Change Net Name : Old Net Name=NetJ?_22 New Net Name=NetJ1_22
+Change Net Name : Old Net Name=NetJ?_23 New Net Name=NetJ1_23

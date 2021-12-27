@@ -1,0 +1,8 @@
+Added Component: Designator=C38(CAPC1608X90X35ML15T15)
+Add component (AddParameter): Name = "Capacitance"; Value = "47pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "06031A470FAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC38_1 Pin=C38-1
+Added Pin To Net: NetName=NetC38_2 Pin=C38-2
+Added Member To Class: ClassName=Cell4 Member=Component C38 06031A470FAT2A

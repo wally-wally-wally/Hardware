@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=IBAT Pin=J1-11
+Removed Pin From Net: NetName=GND Pin=J1-12
+Removed Pin From Net: NetName=STAT Pin=J1-13
+Removed Pin From Net: NetName=\I\N\T\ Pin=J1-14
+Removed Pin From Net: NetName=\Q\O\N\ Pin=J1-15
+Removed Pin From Net: NetName=Pre-VBAT Pin=J1-23
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=STAT Pin=J1-12
+Added Pin To Net: NetName=\I\N\T\ Pin=J1-13
+Added Pin To Net: NetName=\Q\O\N\ Pin=J1-14
+Added Pin To Net: NetName=Pre-VBAT Pin=J1-15
+Added Pin To Net: NetName=IBAT Pin=J1-23
+Added Member To Class: ClassName=BMS Member=Component U1 BQ24179YBGR
