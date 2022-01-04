@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J1 Old Footprint=MOLEX_MiniFitJr_4p New Footprint=JST-XH_4p
+Change Component Comment : Designator=J1 Old Comment=Header_4p_2x2 New Comment=Header_4p
+Added Room: Name=Sheet2
