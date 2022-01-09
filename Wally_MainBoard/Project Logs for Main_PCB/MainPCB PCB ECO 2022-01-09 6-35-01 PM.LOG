@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-5
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Added Room: Name=Designator

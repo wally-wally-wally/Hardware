@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VSYS Pin=J2-5
+Added Pin To Net: NetName=VSYS Pin=J2-2
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

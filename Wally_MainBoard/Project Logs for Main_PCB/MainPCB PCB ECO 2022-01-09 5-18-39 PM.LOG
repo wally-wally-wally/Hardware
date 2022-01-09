@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=IC4 NewDesignator=IC3
+Change Net Name : Old Net Name=NetIC2_4 New Net Name=Vsense
+Change Net Name : Old Net Name=PG New Net Name=PG_N
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
