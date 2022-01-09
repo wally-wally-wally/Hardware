@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=J5 Old Footprint=RHDR4W125P550X420_2X2_960X960X1310P New Footprint=39302040
+Change Component Footprint: Designator=J6 Old Footprint=RHDR4W125P550X420_2X2_960X960X1310P New Footprint=39302040
+Change Component Footprint: Designator=J7 Old Footprint=RHDR4W125P550X420_2X2_960X960X1310P New Footprint=39302040
+Change Component Footprint: Designator=J8 Old Footprint=RHDR4W125P550X420_2X2_960X960X1310P New Footprint=39302040
+Change Component Footprint: Designator=J9 Old Footprint=RHDR4W125P550X420_2X2_960X960X1310P New Footprint=39302040
+Change Component Footprint: Designator=J10 Old Footprint=RHDR4W125P550X420_2X2_960X960X1310P New Footprint=39302040
+Change Component Footprint: Designator=J11 Old Footprint=RHDR4W125P550X420_2X2_960X960X1310P New Footprint=39302040
+Change Component Footprint: Designator=J12 Old Footprint=RHDR4W125P550X420_2X2_960X960X1310P New Footprint=39302040
+Change Component Comment: Designator=J5 Old Comment=39-28-8040 New Comment=39-30-2040
+Change Component Comment: Designator=J6 Old Comment=39-28-8040 New Comment=39-30-2040
+Change Component Comment: Designator=J7 Old Comment=39-28-8040 New Comment=39-30-2040
+Change Component Comment: Designator=J8 Old Comment=39-28-8040 New Comment=39-30-2040
+Change Component Comment: Designator=J9 Old Comment=39-28-8040 New Comment=39-30-2040
+Change Component Comment: Designator=J10 Old Comment=39-28-8040 New Comment=39-30-2040
+Change Component Comment: Designator=J11 Old Comment=39-28-8040 New Comment=39-30-2040
+Change Component Comment: Designator=J12 Old Comment=39-28-8040 New Comment=39-30-2040
+Change Pin Designator/Name:  Old Designator=J10-4 Old Name=4 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=J10-3 Old Name=3 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=J11-4 Old Name=4 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=J11-3 Old Name=3 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=J12-4 Old Name=4 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=J12-3 Old Name=3 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=J5-3 Old Name=3 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=J5-4 Old Name=4 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=J6-3 Old Name=3 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=J6-4 Old Name=4 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=J7-3 Old Name=3 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=J7-4 Old Name=4 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=J8-3 Old Name=3 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=J8-4 Old Name=4 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=J9-4 Old Name=4 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=J9-3 Old Name=3 New Designator =4 New Name=4

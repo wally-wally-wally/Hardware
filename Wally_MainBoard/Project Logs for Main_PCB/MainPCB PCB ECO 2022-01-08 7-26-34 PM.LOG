@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=J4 Old Footprint=1726750213 New Footprint=SHDR2W125P550X420_2X1_540X960X1310P
+Change Component Comment : Designator=J4 Old Comment=172675-0213 New Comment=39-28-8020
+Change component parameters: Designator = "J4" ("J4"); Footprint = "1726750213"; UniqueID = "\IHVJLTIR" ("\IHVJLTIR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/molex/products/datasheet.jsp?part=active/0039288020_PCB_HEADERS.xml"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "13.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "39-28-8020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-39-28-8020"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/39-28-8020?qs=ZZBj1wiNDbnzWLcHr%2Fqwqw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J19(SHDR2W125P550X420_2X1_540X960X1310P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/molex/products/datasheet.jsp?part=active/0039288020_PCB_HEADERS.xml"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "39-28-8020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-39-28-8020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/39-28-8020?qs=ZZBj1wiNDbnzWLcHr%2Fqwqw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=J19-1
+Added Pin To Net: NetName=GND Pin=J19-2
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

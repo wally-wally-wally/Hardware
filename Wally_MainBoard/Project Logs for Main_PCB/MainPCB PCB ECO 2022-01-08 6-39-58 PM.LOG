@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=J14-2
+Removed Pin From Net: NetName=GND Pin=J17-13
+Change Component Comment : Designator=R10 Old Comment==Value New Comment=0
+Change Component Comment : Designator=R11 Old Comment==Value New Comment=0
+Added Pin To Net: NetName=ARM_EN Pin=J14-2
+Added Pin To Net: NetName=ARM_EN Pin=J17-13
+Added Net: Name=ARM_EN
+Change Room Scope: Old Scope=False New Scope=InComponentClass('Designator')
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Change Room Scope: Old Scope=False New Scope=InComponentClass('Designator')
+Added Room: Name=Designator

@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=5V Pin=J13-1
+Removed Pin From Net: NetName=LIDAR_RX Pin=J13-2
+Removed Pin From Net: NetName=GND Pin=J13-4
+Removed Pin From Net: NetName=M_CTR Pin=J13-5
+Removed Member From Class: ClassName=Designator Member=J13
+Change Component Designator: OldDesignator=J? NewDesignator=J16
+Added Component: Designator=J17(RHDR4W125P550X420_2X2_960X960X1310P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "39-28-8040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/39-28-8040/molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/webdocs/datasheets/pdf/en-us/0039288040_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "39-28-8040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-39-28-8040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/39-28-8040?qs=SeTnVz%252B%252BFGDDzw7HSzN2Lw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(39301160)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/039300160_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "39-30-0160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-39-30-0160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/39-30-0160?qs=KHty%2FoMxDPnJHzmu54XA5A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWM_4 Pin=J16-1
+Added Pin To Net: NetName=DIR_3 Pin=J16-2
+Added Pin To Net: NetName=PWM_3 Pin=J16-3
+Added Pin To Net: NetName=PWM_2 Pin=J16-4
+Added Pin To Net: NetName=DIR_2 Pin=J16-5
+Added Pin To Net: NetName=PWM_1 Pin=J16-6
+Added Pin To Net: NetName=DIR_1 Pin=J16-7
+Added Pin To Net: NetName=DIR_4 Pin=J16-8
+Added Pin To Net: NetName=GND Pin=J16-9
+Added Pin To Net: NetName=5V Pin=J17-1
+Added Pin To Net: NetName=LIDAR_RX Pin=J17-2
+Added Pin To Net: NetName=GND Pin=J17-3
+Added Pin To Net: NetName=M_CTR Pin=J17-4
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=ARM_DIR_3 Pin=J?-3
+Added Pin To Net: NetName=ARM_STEP_3 Pin=J?-4
+Added Pin To Net: NetName=ARM_DIR_2 Pin=J?-5
+Added Pin To Net: NetName=ARM_STEP_2 Pin=J?-6
+Added Pin To Net: NetName=ARM_DIR_1 Pin=J?-7
+Added Pin To Net: NetName=ARM_STEP_1 Pin=J?-8
+Added Pin To Net: NetName=SDA Pin=J?-13
+Added Pin To Net: NetName=SCL Pin=J?-14
+Added Pin To Net: NetName=M_CTR Pin=J?-15
+Added Pin To Net: NetName=LIDAR_RX Pin=J?-16
+Added Pin To Net: NetName=NetJ2_10 Pin=J2-10
+Added Pin To Net: NetName=NetJ2_10 Pin=J16-14
+Added Net: Name=NetJ2_10
+Added Pin To Net: NetName=NetJ2_11 Pin=J2-11
+Added Pin To Net: NetName=NetJ2_11 Pin=J16-13
+Added Net: Name=NetJ2_11
+Added Pin To Net: NetName=NetJ2_12 Pin=J2-12
+Added Pin To Net: NetName=NetJ2_12 Pin=J16-12
+Added Net: Name=NetJ2_12
+Added Pin To Net: NetName=NetJ2_15 Pin=J2-15
+Added Pin To Net: NetName=NetJ2_15 Pin=J16-11
+Added Net: Name=NetJ2_15
+Added Pin To Net: NetName=NetJ2_16 Pin=J2-16
+Added Pin To Net: NetName=NetJ2_16 Pin=J16-10
+Added Net: Name=NetJ2_16
+Added Pin To Net: NetName=NetJ2_17 Pin=J2-17
+Added Pin To Net: NetName=NetJ2_17 Pin=J?-9
+Added Net: Name=NetJ2_17
+Added Pin To Net: NetName=NetJ2_18 Pin=J2-18
+Added Pin To Net: NetName=NetJ2_18 Pin=J?-10
+Added Net: Name=NetJ2_18
+Added Pin To Net: NetName=NetJ2_19 Pin=J2-19
+Added Pin To Net: NetName=NetJ2_19 Pin=J?-11
+Added Net: Name=NetJ2_19
+Added Pin To Net: NetName=NetJ2_20 Pin=J2-20
+Added Pin To Net: NetName=NetJ2_20 Pin=J?-12
+Added Net: Name=NetJ2_20
+Added Member To Class: ClassName=Designator Member=Component J17 39-28-8040
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Added Room: Name=Designator

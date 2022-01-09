@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=IBAT Pin=J16-9
+Removed Pin From Net: NetName=CE_N Pin=J16-11
+Added Pin To Net: NetName=CE_N Pin=J16-9
+Added Pin To Net: NetName=IBAT Pin=J16-11
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

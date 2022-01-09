@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=12V Pin=J14-1
+Removed Pin From Net: NetName=5V Pin=J14-6
+Added Pin To Net: NetName=5V Pin=J14-1
+Added Pin To Net: NetName=12V Pin=J14-6
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator

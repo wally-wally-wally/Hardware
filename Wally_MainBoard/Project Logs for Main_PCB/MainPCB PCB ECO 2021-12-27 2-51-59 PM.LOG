@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=VSYS Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=VSYS Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=VSYS Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=GND Pin=IC3-6
+Removed Pin From Net: NetName=VSYS Pin=IC3-7
+Removed Pin From Net: NetName=GND Pin=IC3-9
+Removed Pin From Net: NetName=GND Pin=R7-1
+Change Component Footprint: Designator=L1 Old Footprint=BOURNS SRR1280 New Footprint=INDPM120120X800N
+Change Component Comment : Designator=L1 Old Comment=15µH New Comment=CDRH127_LDNP-150MC
+Change component parameters: Designator = "L1" ("L1"); Footprint = "BOURNS SRR1280"; UniqueID = "\FIYEVGHM" ("\FIYEVGHM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CDRH127/LDNP-150MC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cdrh127ldnp-150mc/sumida?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CDRH127_LDNP-150MC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Sumida"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CDRH127/LDNP-150MC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "851-CDRH127LDNP150MC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Sumida/CDRH127-LDNP-150MC?qs=UC6tolJH7OiTViEpne7nQQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=J13-1
+Added Room: Name=Designator
+Added Room: Name=Designator

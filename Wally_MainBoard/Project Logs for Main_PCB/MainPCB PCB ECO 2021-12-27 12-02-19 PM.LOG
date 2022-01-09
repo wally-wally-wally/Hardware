@@ -1,0 +1,11 @@
+Added Component: Designator=IC?(LMZ22003TZENOPB)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LMZ22003TZE/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lmz22003tzenopb/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flmz22003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.67mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LMZ22003TZE/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LMZ22003TZE/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMZ22003TZE-NOPB?qs=OYMYEaN9QmCFGD0Y8d2tlQ%3D%3D"; VariantName = "[No Variations]"
+Change Room Name: Old Name=Designator_2 New Name=Designator
+Added Room: Name=Designator

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=M_CTR Pin=J16-7
+Removed Pin From Net: NetName=LIDAR_RX Pin=J16-14
+Added Pin To Net: NetName=LIDAR_RX Pin=J16-7
+Added Pin To Net: NetName=M_CTR Pin=J16-14
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
