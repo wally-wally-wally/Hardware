@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=M_CTR Pin=J16-14
+Removed Pin From Net: NetName=ARM_EN Pin=J17-13
+Added Pin To Net: NetName=GND Pin=J16-14
+Added Pin To Net: NetName=GND Pin=J17-13
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
