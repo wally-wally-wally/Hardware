@@ -1,29 +1,13 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [Main_PCB.PrjPcb]
-   Generated File[MainPCB.GTO]
-   Generated File[MainPCB.GTP]
-   Generated File[MainPCB.GTS]
-   Generated File[MainPCB.GTL]
-   Generated File[MainPCB.G1]
-   Generated File[MainPCB.G2]
-   Generated File[MainPCB.GBL]
-   Generated File[MainPCB.GBS]
-   Generated File[MainPCB.GBP]
-   Generated File[MainPCB.GBO]
-   Generated File[MainPCB.GM1]
-   Generated File[MainPCB.GM13]
-   Generated File[MainPCB.GM15]
-   Generated File[MainPCB.GPT]
-   Generated File[MainPCB.GPB]
-   Generated File[MainPCB.GD1]
-   Generated File[MainPCB.GG1]
-   Generated File[MainPCB.RUL]
-   Generated File[MainPCB.EXTREP]
-   Generated File[MainPCB.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Main_PCB.PrjPcb]
+   Generated File[MainPCB-RoundHoles.TXT]
+   Generated File[MainPCB-SlotHoles.TXT]
+   Generated File[MainPCB.LDP]
+   Generated File[MainPCB.DRR]
 
 
-Files Generated   : 20
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 2:40:46 PM On 2021-12-29
+Finished Output Generation At 6:20:58 PM On 2022-01-12
