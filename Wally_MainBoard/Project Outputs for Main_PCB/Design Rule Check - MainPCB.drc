@@ -1,9 +1,12 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\altium-library-fydp\Hardware\Wally_MainBoard\MainPCB.PcbDoc
 Date     : 2022-01-12
-Time     : 2:50:10 PM
+Time     : 3:35:42 PM
 
 Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (InNamedPolygon('12V_L01_P041')),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -46,18 +49,12 @@ Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-3.74mm,42.723mm)(9.06mm,42.723mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-3.74mm,7.923mm)(-3.74mm,42.723mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-3.74mm,7.923mm)(9.06mm,7.923mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-3.867mm,47.819mm)(-3.867mm,78.419mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-3.867mm,47.819mm)(8.933mm,47.819mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (-3.867mm,78.419mm)(8.933mm,78.419mm) on Top Overlay 
-Rule Violations :6
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 6
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:02
