@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: MainPCB.GBR   2022-01-12  6:15:15 PM
+Gerber File Extension Report For: MainPCB.GBR   2022-01-12  8:44:01 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -17,6 +17,7 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
+.GM2                Board Shape                             
 .GM13               Mechanical 13                           
 .GM15               Mechanical 15                           
 .GPT                Top Pad Master                          
