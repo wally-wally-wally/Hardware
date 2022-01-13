@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=GND Pin=IC2-
+Removed Pin From Net: NetName=GND Pin=J3-S
+Removed Pin From Net: NetName=GND Pin=J3-S
+Removed Pin From Net: NetName=GND Pin=J3-S
+Removed Pin From Net: NetName=GND Pin=J3-S
+Removed Pin From Net: NetName=DIR_4 Pin=J17-1
+Removed Pin From Net: NetName=DIR_3 Pin=J17-2
+Removed Pin From Net: NetName=DIR_2 Pin=J17-3
+Removed Pin From Net: NetName=DIR_1 Pin=J17-4
+Removed Pin From Net: NetName=GND Pin=J17-5
+Removed Pin From Net: NetName=ARM_STEP_1 Pin=J17-6
+Removed Pin From Net: NetName=ARM_STEP_2 Pin=J17-7
+Removed Pin From Net: NetName=ARM_STEP_3 Pin=J17-8
+Removed Pin From Net: NetName=PWM_4 Pin=J17-9
+Removed Pin From Net: NetName=PWM_3 Pin=J17-10
+Removed Pin From Net: NetName=PWM_2 Pin=J17-11
+Removed Pin From Net: NetName=PWM_1 Pin=J17-12
+Removed Pin From Net: NetName=GND Pin=J17-13
+Removed Pin From Net: NetName=ARM_DIR_1 Pin=J17-14
+Removed Pin From Net: NetName=ARM_DIR_2 Pin=J17-15
+Removed Pin From Net: NetName=ARM_DIR_3 Pin=J17-16
+Change Component Footprint: Designator=IC2 Old Footprint= New Footprint=SOIC127P600X170-9N
+Change Component Footprint: Designator=J3 Old Footprint=TE 1932638-3 USB2.0A New Footprint=AUSBASMTR
+Change Component Comment : Designator=J3 Old Comment=1932638-3 New Comment=A-USBA_SMT-R
+Change component parameters: Designator = "J3" ("J3"); Footprint = "TE 1932638-3 USB2.0A"; UniqueID = "\PSTPTJSX" ("\PSTPTJSX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7.12mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ASSMANN WSW components GmbH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A-USBA/SMT-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(39301160)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/039300160_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "39-30-0160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-39-30-0160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/39-30-0160?qs=KHty%2FoMxDPnJHzmu54XA5A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC2-9
+Added Pin To Net: NetName=GND Pin=J3-MH1
+Added Pin To Net: NetName=GND Pin=J3-MH2
+Added Pin To Net: NetName=DIR_4 Pin=J?-1
+Added Pin To Net: NetName=DIR_3 Pin=J?-2
+Added Pin To Net: NetName=DIR_2 Pin=J?-3
+Added Pin To Net: NetName=DIR_1 Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=ARM_STEP_1 Pin=J?-6
+Added Pin To Net: NetName=ARM_STEP_2 Pin=J?-7
+Added Pin To Net: NetName=ARM_STEP_3 Pin=J?-8
+Added Pin To Net: NetName=PWM_4 Pin=J?-9
+Added Pin To Net: NetName=PWM_3 Pin=J?-10
+Added Pin To Net: NetName=PWM_2 Pin=J?-11
+Added Pin To Net: NetName=PWM_1 Pin=J?-12
+Added Pin To Net: NetName=GND Pin=J?-13
+Added Pin To Net: NetName=ARM_DIR_1 Pin=J?-14
+Added Pin To Net: NetName=ARM_DIR_2 Pin=J?-15
+Added Pin To Net: NetName=ARM_DIR_3 Pin=J?-16
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
