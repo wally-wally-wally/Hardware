@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Wally_BMS.PrjPcb]
+   Generated File[Wally_BMS.TXT]
+   Generated File[Wally_BMS.LDP]
+   Generated File[Wally_BMS.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:20:58 PM On 1/15/2022

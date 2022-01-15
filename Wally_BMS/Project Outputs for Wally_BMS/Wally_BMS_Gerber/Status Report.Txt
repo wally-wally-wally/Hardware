@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Wally_BMS.PrjPcb]
+   Generated File[Wally_BMS.RUL]
+   Generated File[Wally_BMS.EXTREP]
+   Generated File[Wally_BMS.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:05:30 PM On 1/11/2022
