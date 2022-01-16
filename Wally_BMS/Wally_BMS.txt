@@ -1,0 +1,39 @@
+Board Information Report
+Filename     : C:\Users\Derek Cao\Documents\wally-wally-wally\Hardware\Wally_BMS\Wally_BMS.PcbDoc
+Date         : 1/15/2022
+Time         : 7:15:42 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 75mmx75mm
+    Components on board, 156
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+    2.85mm, 2, 0
+    3mm, 1, 0
+count : 2
+
+Plated Hole Size, Pads, Vias
+    0mm, 447, 0
+    0.2mm, 0, 33
+    0.3mm, 0, 46
+    0.5mm, 0, 38
+    0.7112mm, 0, 99
+    0.9906mm, 5, 0
+    1.65mm, 4, 0
+    1.8mm, 27, 0
+    3.4mm, 3, 0
+count : 9
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0

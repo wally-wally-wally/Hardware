@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\Derek Cao\Documents\Wally_BMS\Wally_BMS.PcbDoc
+DRC Rules Export File for PCB: C:\Users\Derek Cao\Documents\wally-wally-wally\Hardware\Wally_BMS\Wally_BMS.PcbDoc
 RuleKind=Clearance|RuleName=BGA_Clearance|Scope=Board|Minimum=4.00
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
