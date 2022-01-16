@@ -1,0 +1,3 @@
+Added Component: Designator=TP10(TEST POINT)
+Added Pin To Net: NetName=VSYS Pin=TP10-1
+Added Member To Class: ClassName=Connectors Member=Component TP10 Test Point

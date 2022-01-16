@@ -9,112 +9,95 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D12
+    D10
     D13
     D14
     D15
-    D17
+    D16
     D18
     D19
     D20
 *************************************************************
 
 *************************************************************
-Generating : GND
-      File : Wally_BMS.G1
+Generating : Top Layer
+      File : Wally_BMS.GTL
 
-    Adding Layer      : GND
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
-    D33
-    D70
-    D73
-    D79
-    D81
-    D84
-    D85
-*************************************************************
-
-*************************************************************
-Generating : Bottom Component Center
-      File : Wally_BMS.GM24
-
-    Adding Layer      : Bottom Component Center
-
-
-Used DCodes :
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Top Component Center
-      File : Wally_BMS.GM16
-
-    Adding Layer      : Top Component Center
-
-
-Used DCodes :
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Top 3D Body
-      File : Wally_BMS.GM2
-
-    Adding Layer      : Top 3D Body
-
-
-Used DCodes :
+    D12
+    D15
+    D16
     D17
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Wally_BMS.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
     D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
     D38
     D39
     D40
+    D41
+    D42
+    D43
     D44
-    D47
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D59
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
+    D45
     D71
-    D72
-    D89
-    D92
-    D93
-    D94
-    D95
+    D74
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : Wally_BMS.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Wally_BMS.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D16
+    D18
+    D19
 *************************************************************
 
 *************************************************************
@@ -152,6 +135,8 @@ Used DCodes :
     D41
     D42
     D43
+    D44
+    D45
 *************************************************************
 
 *************************************************************
@@ -176,6 +161,22 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Mechanical 13
+      File : Wally_BMS.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D13
+    D14
+    D16
+    D20
+    D99
+    D100
+*************************************************************
+
+*************************************************************
 Generating : Top Assembly
       File : Wally_BMS.GM5
 
@@ -183,7 +184,41 @@ Generating : Top Assembly
 
 
 Used DCodes :
-    D17
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Wally_BMS.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Wally_BMS.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Wally_BMS.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+    D13
 *************************************************************
 
 *************************************************************
@@ -219,116 +254,74 @@ Used DCodes :
     D41
     D42
     D43
-    D68
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : Wally_BMS.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D19
-    D96
-    D97
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Wally_BMS.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D11
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : Wally_BMS.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D15
-    D16
-    D17
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D68
-    D70
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
+    D44
+    D45
+    D71
     D81
     D82
     D83
     D84
     D85
+    D86
 *************************************************************
 
 *************************************************************
-Generating : Bottom Courtyard
-      File : Wally_BMS.GM21
+Generating : Bottom 3D Body
+      File : Wally_BMS.GM23
 
-    Adding Layer      : Bottom Courtyard
+    Adding Layer      : Bottom 3D Body
 
 
 Used DCodes :
-    D17
+    D15
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 7
-      File : Wally_BMS.GM7
+Generating : Bottom Pad Master
+      File : Wally_BMS.GPB
 
-    Adding Layer      : Mechanical 7
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D22
+    D25
+    D28
+    D30
+    D31
+    D32
+    D34
+    D35
+    D36
+    D37
+    D40
+    D41
+    D42
+    D43
+    D71
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D90
+    D91
+    D92
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : Wally_BMS.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D13
 *************************************************************
 
 *************************************************************
@@ -343,87 +336,25 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D21
-    D24
-    D26
-    D27
+    D22
+    D25
     D28
     D30
     D31
     D32
     D34
     D35
-    D38
-    D39
+    D36
+    D37
     D40
     D41
-    D78
-    D87
-    D88
-    D89
-    D90
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Wally_BMS.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D24
-    D26
-    D27
-    D28
-    D30
-    D31
-    D32
-    D34
-    D35
-    D38
-    D39
-    D40
-    D41
-    D68
-    D78
-    D79
-    D80
+    D42
+    D43
     D81
-    D82
-    D83
-    D87
-    D88
-    D89
     D90
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : Wally_BMS.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D13
-    D15
-    D18
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Bottom 3D Body
-      File : Wally_BMS.GM23
-
-    Adding Layer      : Bottom 3D Body
-
-
-Used DCodes :
-    D17
+    D91
+    D92
+    D93
 *************************************************************
 
 *************************************************************
@@ -436,29 +367,26 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D11
-    D16
+    D12
+    D17
     D21
-    D24
-    D26
-    D27
+    D22
+    D25
     D28
     D30
     D31
     D32
-    D33
     D34
     D35
-    D38
-    D39
+    D36
+    D37
     D40
     D41
-    D68
-    D70
-    D73
+    D42
+    D43
+    D71
     D74
-    D75
-    D77
+    D76
     D78
     D79
     D80
@@ -467,33 +395,116 @@ Used DCodes :
     D83
     D84
     D85
+    D86
+    D87
+    D88
+    D90
+    D91
+    D92
+    D93
+    D94
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Wally_BMS.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D34
+    D40
+    D41
+    D42
+    D46
+    D47
+    D49
+    D52
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D62
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D92
+    D95
+    D96
+    D97
+    D98
+*************************************************************
+
+*************************************************************
+Generating : PWR
+      File : Wally_BMS.G2
+
+    Adding Layer      : PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D17
+    D21
+    D74
+    D76
+    D78
+    D79
+    D82
+    D84
+    D86
     D87
     D88
     D89
-    D90
-    D91
 *************************************************************
 
 *************************************************************
-Generating : Bottom Assembly
-      File : Wally_BMS.GM20
+Generating : Bottom Component Center
+      File : Wally_BMS.GM24
 
-    Adding Layer      : Bottom Assembly
+    Adding Layer      : Bottom Component Center
 
 
 Used DCodes :
-    D17
+    D13
 *************************************************************
 
 *************************************************************
-Generating : Top Courtyard
-      File : Wally_BMS.GM3
+Generating : Bottom Courtyard
+      File : Wally_BMS.GM21
 
-    Adding Layer      : Top Courtyard
+    Adding Layer      : Bottom Courtyard
 
 
 Used DCodes :
-    D17
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 7
+      File : Wally_BMS.GM7
+
+    Adding Layer      : Mechanical 7
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -508,13 +519,12 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D29
-    D30
-    D38
-    D39
+    D23
+    D33
+    D34
     D40
-    D44
-    D45
+    D41
+    D42
     D46
     D47
     D48
@@ -542,30 +552,28 @@ Used DCodes :
     D70
     D71
     D72
+    D73
+    D74
+    D75
 *************************************************************
 
 *************************************************************
-Generating : PWR
-      File : Wally_BMS.G2
+Generating : GND
+      File : Wally_BMS.G1
 
-    Adding Layer      : PWR
+    Adding Layer      : GND
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
-    D16
-    D33
-    D70
-    D73
+    D12
+    D21
     D74
-    D75
-    D79
-    D81
-    D83
+    D78
+    D82
     D84
-    D85
-    D86
+    D87
+    D88
 *************************************************************
 
