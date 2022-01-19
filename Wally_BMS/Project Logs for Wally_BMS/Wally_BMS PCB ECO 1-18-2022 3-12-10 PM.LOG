@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=D3 Old Footprint=DO-214-AA New Footprint=50WQ06FNTR
+Added Pin To Net: NetName=GND Pin=D3-3

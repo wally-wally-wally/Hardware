@@ -1,36 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [Wally_BMS.PrjPcb]
-   Generated File[Wally_BMS.GTO]
-   Generated File[Wally_BMS.GTP]
-   Generated File[Wally_BMS.GTS]
-   Generated File[Wally_BMS.GTL]
-   Generated File[Wally_BMS.G1]
-   Generated File[Wally_BMS.G2]
-   Generated File[Wally_BMS.GBL]
-   Generated File[Wally_BMS.GBS]
-   Generated File[Wally_BMS.GBP]
-   Generated File[Wally_BMS.GBO]
-   Generated File[Wally_BMS.GM1]
-   Generated File[Wally_BMS.GM2]
-   Generated File[Wally_BMS.GM3]
-   Generated File[Wally_BMS.GM5]
-   Generated File[Wally_BMS.GM7]
-   Generated File[Wally_BMS.GM13]
-   Generated File[Wally_BMS.GM15]
-   Generated File[Wally_BMS.GM16]
-   Generated File[Wally_BMS.GM20]
-   Generated File[Wally_BMS.GM21]
-   Generated File[Wally_BMS.GM23]
-   Generated File[Wally_BMS.GM24]
-   Generated File[Wally_BMS.GPT]
-   Generated File[Wally_BMS.GPB]
-   Generated File[Wally_BMS.RUL]
-   Generated File[Wally_BMS.EXTREP]
-   Generated File[Wally_BMS.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Wally_BMS.PrjPcb]
+   Generated File[Wally_BMS.TXT]
+   Generated File[Wally_BMS.LDP]
+   Generated File[Wally_BMS.DRR]
 
 
-Files Generated   : 27
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 5:11:13 PM On 1/16/2022
+Finished Output Generation At 10:30:00 PM On 1/18/2022
